@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @n-goyat
-- 👀 I’m currently studying @42heilbronn
+- 🎓 Graduated @42heilbronn
+- 👀 Currently looking to get my footing into IT engineering
 
 <!---
 n-goyat/n-goyat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
